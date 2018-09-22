@@ -19,7 +19,7 @@ class AppServiceProvider extends ServiceProvider
     {
         Schema::defaultStringLength(191);
         /**
-         *  Remove following line at the time of migration.
+         *  Remove following line at the time of migration and when you start this application (i.e. php artisan serve)
          */
         View::share('channels',Channel::all());
     }
