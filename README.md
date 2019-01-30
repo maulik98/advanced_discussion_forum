@@ -1,4 +1,4 @@
-# Advanced_discussion_forum
+# Advanced Discussion Forum
 This is the advanced discussion forum web application in which you will can do much stuff like discuss your problem, review the reply, watch the discussion and reply the discussion and much more.
 This web application made in PHP framework (<b> Laravel 5.6 </b>).
 
